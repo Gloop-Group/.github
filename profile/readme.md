@@ -2,4 +2,4 @@
 
 We're glooping!
 
-[Documentation](/Documentation/readme.md)
+[Internal Documentation](https://github.com/Gloop-Group/Documentation/blob/main/readme.md)
